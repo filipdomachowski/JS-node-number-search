@@ -11,3 +11,8 @@ via WS:
 
 client is using Binary Search to optimize search process.
 
+---------------------------------------------------------------------------------------------
+Instruction:
+- npm install
+- npm start
+

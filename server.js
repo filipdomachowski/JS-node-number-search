@@ -5,7 +5,7 @@ var io = require('socket.io')(http)
 var result = null;
 var counter = 0
 var from = 1
-var to = 1000000
+var to = 10000
 
 app.use(express.static(__dirname + '/')) //odwołanie do katalogu pliku
 

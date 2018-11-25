@@ -1,7 +1,7 @@
 var socket;
 var number;
 var from = 1;
-var to = 1000000;
+var to = 10000;
 var lastLowest = from;
 var lastHighest = to;
 var inter;
